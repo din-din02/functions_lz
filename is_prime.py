@@ -1,3 +1,4 @@
+#Простое ли число
 def v(x):
     k = 0
     for i in range(2, x // 2+1):
@@ -12,4 +13,5 @@ def main():
     v(x)
 if __name__ == "__main__":
     main()
+
 
